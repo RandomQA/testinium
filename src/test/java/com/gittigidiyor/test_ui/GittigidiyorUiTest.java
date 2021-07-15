@@ -68,6 +68,7 @@ public class GittigidiyorUiTest {
         Assert.assertTrue(secondPageUrl.contains(secondPageVerification));
         Log4j.info("Second Page asserted.");
         //========WriteToText==========//
+        actions.sendKeys(Keys.PAGE_DOWN).perform();
         gittigidiyorPage.productLink.click();
         Log4j.info("Clicked the expected product.");
         String productDetails = gittigidiyorPage.productDetails.getText();

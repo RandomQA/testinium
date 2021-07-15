@@ -37,7 +37,7 @@ public class GittigidiyorPage {
     @FindBy(xpath = "//a[@href='/arama/?k=bilgisayar&sf=2']")
     public WebElement secondPage;
 
-    @FindBy(xpath = "(//p[@class='image-container product-hslider-container'])[1]")
+    @FindBy(xpath = "/html/body/div[5]/div[1]/div/div[2]/div[4]/div[2]/ul/li[1]/a/div/p/img")
     public WebElement productLink;
 
     @FindBy(xpath = "//h1[@class='title r-onepp-title']")
