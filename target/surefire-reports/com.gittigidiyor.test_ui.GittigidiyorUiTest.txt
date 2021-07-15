@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.gittigidiyor.test_ui.GittigidiyorUiTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 42.942 s <<< FAILURE! - in com.gittigidiyor.test_ui.GittigidiyorUiTest
+loginMethod on loginMethod(com.gittigidiyor.test_ui.GittigidiyorUiTest)(com.gittigidiyor.test_ui.GittigidiyorUiTest)  Time elapsed: 37.563 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.gittigidiyor.test_ui.GittigidiyorUiTest.loginMethod(GittigidiyorUiTest.java:71)
+

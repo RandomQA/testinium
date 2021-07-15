@@ -1,0 +1,11 @@
+com\gittigidiyor\utilities\WriteToText.class
+com\gittigidiyor\utilities\Driver.class
+com\gittigidiyor\utilities\RandomMaker.class
+com\gittigidiyor\pages\GittigidiyorPage.class
+com\gittigidiyor\test_ui\GittigidiyorUiTest.class
+com\gittigidiyor\utilities\Log4j.class
+com\gittigidiyor\utilities\ReusableMethods$1.class
+com\gittigidiyor\test_api\TrelloTask.class
+com\gittigidiyor\utilities\ConfigReader.class
+com\gittigidiyor\utilities\ReusableMethods.class
+com\gittigidiyor\utilities\ReusableMethods$2.class
